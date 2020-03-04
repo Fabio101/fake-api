@@ -1,0 +1,16 @@
+{
+  "sites": [
+    {
+      "id": 1,
+      "site_name": "example.com"
+    },
+    {
+      "id": 2,
+      "site_name": "test.com"
+    },
+    {
+      "id": 3,
+      "site_name": "testing.com"
+    }
+  ],
+}
